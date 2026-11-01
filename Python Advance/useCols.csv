@@ -1,0 +1,11 @@
+isActive,colName,dtype
+Y,longitude,float64
+N,latitude,float64
+Y,housing_median_age,float64
+Y,total_rooms,float64
+Y,total_bedrooms,float64
+N,population,float64
+Y,households,float64
+N,median_income,float64
+Y,median_house_value,float64
+Y,ocean_proximity,object
