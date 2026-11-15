@@ -1,0 +1,6 @@
+2022-07-24 17:11:16,345: ERROR : __main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:/Users/Admin/PycharmProjects/pythondebugger/log_sample2.py", line 28, in fun_divide
+    result = x / y
+ZeroDivisionError: division by zero
+2022-07-24 17:11:16,345: ERROR : __main__:log of negative no not possible
